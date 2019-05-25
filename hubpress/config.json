@@ -35,13 +35,13 @@
     "cover": "",
     "delay": "",
     "postsPerPage": "5",
-    "blogPath": "",
+    "blogPath": "blog",
     "googleAnalytics": "",
     "disqus": ""
   },
   "socialnetwork": {
     "email": "",
-    "github": "chemasmas",
+    "github": "https://github.com/Chemasmas",
     "twitter": "chemasmas",
     "facebook": "chemasmas",
     "googleplus": "",
